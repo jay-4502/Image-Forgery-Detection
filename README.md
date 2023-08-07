@@ -1,6 +1,6 @@
 # Image-Processing-project
 <br>
-# Image Forgery Detection using ELA(Error Level Analysis)
+Image Forgery Detection using ELA(Error Level Analysis)
 <br>
 Image forging is the manipulation of digital images using methods like copy-move, splicing, image removal etc. Image forgery detection is the process of identifying
 a modified image from the original. In the realm of digital image processing, image forgery detection is a critical task. The amount of altered and faked photographs 
